@@ -1959,7 +1959,7 @@ figcaption {
 }
 
 .box.r1 {
-  background-image: url("../images/redwsa.svg");
+  background-image: url("../images/redwsa.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2316,13 +2316,13 @@ figcaption {
 }
 
 .s4-character {
-  background-image: url("../images/rear-view.svg");
+  background-image: url("../images/rear-view.png");
   background-position: 0 100%;
   background-repeat: no-repeat;
   background-size: auto;
-  width: 50%;
-  height: 50%;
-  margin-left: auto;
+  width: 500%;
+  height: 500%;
+  margin-left: 300px;
   margin-right: auto;
   position: absolute;
   inset: auto 0% 0%;
@@ -2605,7 +2605,7 @@ figcaption {
 }
 
 .s5-character {
-  background-image: url("../images/4.svg");
+  background-image: url("../images/4.png");
   background-position: 50% 110%;
   background-repeat: no-repeat;
   background-size: contain;
